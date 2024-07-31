@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66aa542ffc68c150b1f92374_9b9cfb44-2eaa-46cc-a889-e52706b62722",
-  "id": "Page1_JSObject1.myFun1",
+  "id": "Page1_JSObject1.myFun1111",
   "pluginId": "js-plugin",
   "pluginType": "JS",
   "unpublishedAction": {
@@ -24,8 +24,8 @@
       }
     ],
     "executeOnLoad": false,
-    "fullyQualifiedName": "JSObject1.myFun1",
-    "name": "myFun1",
+    "fullyQualifiedName": "JSObject1.myFun1111",
+    "name": "myFun1111",
     "pageId": "Page1",
     "userSetOnLoad": false
   }

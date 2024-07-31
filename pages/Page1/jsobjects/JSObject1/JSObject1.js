@@ -1,7 +1,7 @@
 export default {
 	myVar1: [],
 	myVar2: {},
-	myFun1 () {
+	myFun1111 () {
 		//	write code here
 		//	this.myVar1 = [1,2,3]
 	},
